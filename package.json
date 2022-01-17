@@ -34,7 +34,7 @@
     "pg-hstore": "^2.3.3",
     "require-all": "^3.0.0",
     "sequelize": "^6.2.3",
-    "sequelize-cli": "^6.1.0",
+    "sequelize-cli": "^6.4.1",
     "swagger-parser": "^9.0.1",
     "yamljs": "^0.3.0"
   },
